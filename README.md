@@ -6,3 +6,4 @@ Unity-based indoor AR decoration app  using ARCore
 AR object placement
 Indoor Layout detection
 Unity + ARCore SDK
+AR Foundation
