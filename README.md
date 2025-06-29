@@ -1,4 +1,4 @@
-# DecoViosion
+# DecoVision
 Unity-based indoor AR decoration app  using ARCore
 ## Download Project
 [click here to download the unity project zip](https://drive.google.com/drive/folders/1HuTkvz2ffshrszDyutv4_6XIWbJhFMrC?usp=drive_link)
